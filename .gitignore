@@ -1,4 +1,3 @@
 backup.txt  
-logs.txt  
-student.sh  
-students.txt
+logs.txt
+*.tmp  
