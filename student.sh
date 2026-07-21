@@ -1,9 +1,7 @@
 #!/bin/bash
-###############################################################################
 # Student Management System - PART 1
 # Features: Login, Add Student, View Students, Duplicate ID check,
 #           Phone/Age validation, Date & Time stamp, Colorful menu, Logging
-###############################################################################
 
 # ---------------------------- CONFIG / FILES --------------------------------
 DB_FILE="students.txt"
